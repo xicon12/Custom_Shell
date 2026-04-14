@@ -1,0 +1,4 @@
+PyQt6
+markdown
+python-dotenv
+psutil

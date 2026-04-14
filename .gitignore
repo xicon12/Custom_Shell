@@ -1,0 +1,22 @@
+# Binaries
+advsh
+myshell
+*.exe
+*.o
+
+# Environment
+.env
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+
+# History Files
+.adv_shell_history
+
+# Misc
+*.log
+screenshot_*.png
+temp/
