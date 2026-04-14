@@ -2,7 +2,7 @@
 
 A high-performance, Linux-based C shell engine wrapped in a stunning Cyberpunk-themed Python GUI. CyberShell bridges the gap between low-level system operations and modern AI-enhanced user experience.
 
-![CyberShell Screenshot](screenshot_2698.png)
+![CyberShell Screenshot](User Interface.png)
 
 ## ✨ Features
 
